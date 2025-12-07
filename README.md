@@ -81,9 +81,6 @@ This project aims to answer the following key business questions:
 * **Recovery Trajectory:** 2024 and 2025 projections indicate a return to **95%+ of pre-pandemic volume**, driven largely by the reopening of Asian markets.
 * **Volume vs. Value:** While countries like **France** lead in total *Arrivals*, the **United States** often leads in *Receipts*, indicating a higher average spend per visitor.
 * **Micro-Seasons:** The Holiday dataset reveals clusters of public holidays in Q1 and Q4 for many regions, suggesting prime windows for domestic tourism marketing.
-
----
-
 ## 📂 File Structure
 
 ```text
@@ -98,7 +95,11 @@ This project aims to answer the following key business questions:
 │   ├── Dashboard-3.png                        # Holidays Screenshot
 └── README.md
 
-🚀 Future Improvements
+
+
+```
+---
+## 🚀 Future Improvements
 Granularity Upgrade: Sourcing monthly tourism arrival data to allow for direct correlation analysis between specific holidays and monthly travel spikes.
 
 Predictive Modeling: Implementing Python forecasting scripts (ARIMA/Prophet) to predict 2026-2030 trends based on current growth rates.
@@ -107,4 +108,3 @@ Real-time API: Connecting the Power BI dashboard directly to a live flight API f
 
 👤 Author
 Aatish Arote 
-
