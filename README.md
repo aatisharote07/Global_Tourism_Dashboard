@@ -22,8 +22,7 @@ This project contains three distinct dashboards, each focusing on specific KPIs.
 * Arrivals over the years vs. Receipts.
 * High/Moderate/Declining growth distribution.
 * Average growth patterns by region.
-
-![Global Tourism Overview](https://github.com/aatisharote07/Global_Tourism_Dashboard/blob/main/Dashboard-1.png?raw=true)
+![Global Tourism Overview](https://github.com/aatisharote07/Global_Tourism_Dashboard/blob/main/Screenshots/Dashboard-1.png?raw=true)
 
 ### 2️⃣ Tourism Receipts & Trends Dashboard
 **Key Features:**
@@ -32,8 +31,7 @@ This project contains three distinct dashboards, each focusing on specific KPIs.
 * Receipts vs. Arrivals scatter visualization (Volume vs. Value).
 * Country-level drill-down filters.
 
-![Trends Dashboard](https://github.com/aatisharote07/Global_Tourism_Dashboard/blob/main/Dashboard-2.png?raw=true)
-
+![Trends Dashboard](https://github.com/aatisharote07/Global_Tourism_Dashboard/blob/main/Screenshots/Dashboard-2.png?raw=true)
 ### 3️⃣ Global Holidays Dashboard
 **Key Features:**
 * Ranking of countries by holiday count.
@@ -41,8 +39,7 @@ This project contains three distinct dashboards, each focusing on specific KPIs.
 * Holiday type breakdown (Public, Observance, Local, etc.).
 * Trend of holidays over the years and seasonality by month.
 
-![Holidays Dashboard](https://github.com/aatisharote07/Global_Tourism_Dashboard/blob/main/Dashboard-3.png?raw=true)
-
+![Holidays Dashboard](https://github.com/aatisharote07/Global_Tourism_Dashboard/blob/main/Screenshots/Dashboard-3.png?raw=true)
 ---
 
 ## 🎯 Business Objectives
